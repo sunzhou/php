@@ -1,5 +1,5 @@
 <?php
-$sun = 1 ;
+$sun = 0 ;
 
 $a=array(
     'a'=>1,
